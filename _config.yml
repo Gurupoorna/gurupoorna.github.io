@@ -29,10 +29,10 @@ github_username:  gurupoorna
 
 # Build settings
 # theme: minima
-theme: garth-jekyll-theme
+# theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
-  # - garth-jekyll-theme
+  - garth-jekyll-theme
 remote_theme: daviddarnes/garth
 
 # Exclude from processing.
