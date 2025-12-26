@@ -32,7 +32,7 @@ github_username:  gurupoorna
 theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
-  - garth-jekyll-theme
+  # - garth-jekyll-theme
 remote_theme: daviddarnes/garth
 
 # Exclude from processing.
